@@ -29,16 +29,16 @@ ex.<ol type="I">
 </ol>
 attributes:compact, reversed, start
 
-p:browsers automatically add some space (margin) before and after each <p> element. 
+p: browsers automatically add some space (margin) before and after each <p> element. 
 ex.<p>This is some text in a paragraph.</p>
 attributes:align
 
-a:The <a> tag defines a hyperlink, which is used to link from one page to another.
+a: The <a> tag defines a hyperlink, which is used to link from one page to another.
 The most important attribute of the <a> element is the href attribute, which indicates the link's destination.
 ex.<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 attributes: href
   
-u1:The <ul> tag defines an unordered (bulleted) list.
+u1: The <ul> tag defines an unordered (bulleted) list.
 ex.<ul>
   <li>Coffee</li>
   <li>Tea</li>
