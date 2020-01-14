@@ -106,6 +106,7 @@ css: selector: {
 property:value;
 prroperty:value;
 }
+EX. H1{FONT-SIZE: 100 PTS;}
 
 {<!DOCTYPE HTML>
 <html>
