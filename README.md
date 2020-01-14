@@ -101,3 +101,20 @@ ex.<ul>
   <li>Milk</li>
 </ul>
 attributes: type
+
+css: selector: {
+property:value;
+prroperty:value;
+}
+
+{<!DOCTYPE HTML>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
